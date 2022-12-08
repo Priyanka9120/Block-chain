@@ -4,7 +4,7 @@ Now create an API key from the section which says  “Request API Key- Click her
 the “HEADER” section above it also contains details on how to use this API key
 “set the header field Authorization=Bearer XXXX” :- you have to create a header named “Authorization” and set its value to “Bearer XXXX” where XXXX stands for the API key that you have generated above
 
-
+ 
 Now the assignment is to create an API that does the following ( one single API and not multiple separate API’s)
 
 Get the list of all the top 100 cryptocurrency coins in the world using the /assets api ( the first api mentioned in the documentation)

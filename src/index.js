@@ -7,7 +7,7 @@ const mongoose = require("mongoose")
 app.use(express.json())
 
 
-app.use(express.urlencoded({ extended: true }))
+
 
 mongoose.connect("mongodb+srv://priyanka912066:Pie5MEDyx8B1zOiq@cluster0.ucnslwp.mongodb.net/cryptocoins",
     { useNewUrlParser: true })
